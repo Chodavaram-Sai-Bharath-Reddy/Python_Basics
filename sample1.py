@@ -1,3 +1,3 @@
 print("hello")
-print('jarvis'*3)
-print('titan' + ' ' +'submarine')
+print('jarvis' * 3)
+print('titan' + ' ' + 'submarine')
