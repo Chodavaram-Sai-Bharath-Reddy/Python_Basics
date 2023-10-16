@@ -29,3 +29,6 @@ print(number1, number2, number3, number4)
 
 t = tuple(range(1, 20, 2))
 print(t)
+
+for item in t:
+    print(item, end=" ")
