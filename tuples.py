@@ -26,3 +26,6 @@ print(type(tup1))
 number1, number2, number3, number4 = b
 
 print(number1, number2, number3, number4)
+
+t = tuple(range(1, 20, 2))
+print(t)
