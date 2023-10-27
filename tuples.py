@@ -32,3 +32,7 @@ print(t)
 
 for item in t:
     print(item, end=" ")
+
+
+print()
+print(type(sorted(a)))
